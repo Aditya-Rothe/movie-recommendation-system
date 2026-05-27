@@ -2,4 +2,6 @@ venv/
 __pycache__/
 *.pyc
 .env
-model/
+models/similarity.pkl
+models/movie_list.pkl
+*.pkl
