@@ -12,7 +12,6 @@ The system uses vectorization and cosine similarity to identify movies with simi
 * Interactive Streamlit web application
 * Movie poster integration using the OMDb API
 * Clean and responsive UI
-* Fast recommendation generation
 * Real-time movie search and selection
 * Machine learning similarity scoring
 
