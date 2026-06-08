@@ -126,7 +126,6 @@ with your actual API key.
 * Watchlist feature
 * Movie trailers integration
 * Deployment on Streamlit Cloud
-* Recommendation explanation system
 * Advanced search filters
 
 ---
